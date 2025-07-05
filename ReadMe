@@ -1,0 +1,13 @@
+Hello to access this code you have to install STS on your machine.
+
+for short url use below template
+Generate Url Post Mapping :- http://localhost:8080/url/GenerateUrl
+{
+	"url":"www.google.com"
+}
+------------------
+Expand Url
+Get Mapping :- http://localhost:8080/url/ExpandUrl
+{
+	"url":"paste generated url here"
+}
